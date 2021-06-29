@@ -37,10 +37,7 @@ A simple app using Open Weather Map API to display current weather conditions pe
 
 UI designed with a mobile first approach. Available across multiple devices.
 
-<img src="images/viewport.png">
-
-<img src="https://i.ibb.co/61VTZhk/desktop.png" alt="desktop" border="0">
-<img src="https://i.ibb.co/qJpjSq9/mobile.png" alt="mobile" border="0">
+<img src="https://i.ibb.co/0qQPc17/template1-viewport.png" alt="template1-viewport" border="0">
 
 Here is a working live demonstration: https://mrblach.github.io/email-template-company-newsletter/
 
