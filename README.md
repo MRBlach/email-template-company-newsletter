@@ -72,4 +72,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### You may also like..
 
-+ [E-commerce](https://github.com/MRBlach/email-template-mail-order-service "example e-commerce campaign") - Show off your online store.
++ [HTML EMail Template: example e-commerce campaign](https://github.com/MRBlach/email-template-mail-order-service "example e-commerce campaign") - Show off your online store.
