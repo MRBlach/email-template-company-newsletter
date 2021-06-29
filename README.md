@@ -13,29 +13,15 @@ Example Company Newsletter HTML Email Template
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Key Features](#features)
-- [Site](#site)
 - [Development](#development)
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
 <h1 id="introduction">Introduction</h1>
 
-A simple app using Open Weather Map API to display current weather conditions per location. View current weather forcast by city and state.
-
-<h1 id="features">Key Features</h1>
-
-+ Search parameters local to USA
-+ Temperature in degrees fahrenheit
-+ Wind speed in miles per hour
-+ Responsive Design
+Responsive email template for daily, weekly, and monthly newsletters. Responsive three column grid, works well on mobile. Social media icons for networking.
 
 ---
-<h1 id="site">Site</h1>
-
-### Landing Page
-
-UI designed with a mobile first approach. Available across multiple devices.
 
 <img src="https://i.ibb.co/0qQPc17/template1-viewport.png" alt="template1-viewport" border="0">
 
@@ -83,11 +69,7 @@ Whether you use this project, have learned something from it, or just like it, p
 <a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   or   <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ---
-<h1 id="acknowledgments">Acknowledgments</h1>
-
-+ Thanks to **Bootswatch** for providing [free themes for Bootstrap](https://bootswatch.com/)
-+ Thanks to **Open Weather Map** for providing the [free API for current forecast weather data](https://openweathermap.org/api)
 
 ### You may also like..
 
-+ [Digital Clock](https://github.com/MRBlach/clock "Digital Clock") - Current date and time display
++ [Digital Clock](https://github.com/MRBlach/email-template-mail-order-service "example e-commerce campaign") - Show off your online store.
