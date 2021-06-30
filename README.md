@@ -2,10 +2,10 @@
 Example Company Newsletter HTML Email Template
 </h1> 
 <p align="center">
-  <a href="https://saythanks.io/to/melodyblachowicz%40gmail.com" target="_blank">
+  <a href="https://saythanks.io/to/melodyblachowicz%40gmail.com">
     <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
-  <a href="https://www.paypal.com/paypalme/MRBlacho" target="_blank">
+  <a href="https://www.paypal.com/paypalme/MRBlacho">
     <img src="https://img.shields.io/badge/$-donate-49eb34.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
@@ -24,7 +24,7 @@ Responsive email template for daily, weekly, and monthly newsletters. Responsive
 
 <img src="https://i.ibb.co/0qQPc17/template1-viewport.png" alt="template1-viewport" border="0">
 
-Here is a working live [demonstration](https://mrblach.github.io/email-template-company-newsletter/  target="_blank")
+Here is a working live [demonstration](https://mrblach.github.io/email-template-company-newsletter/){:target="_blank"}
 
 ### Steps To Execute This App
 - Download the entire code
