@@ -24,7 +24,7 @@ Responsive email template for daily, weekly, and monthly newsletters. Responsive
 
 <img src="https://i.ibb.co/0qQPc17/template1-viewport.png" alt="template1-viewport" border="0">
 
-Here is a working live demonstration: https://mrblach.github.io/email-template-company-newsletter/
+Here is a working live [demonstration](https://mrblach.github.io/email-template-company-newsletter/)
 
 ### Steps To Execute This App
 - Download the entire code
@@ -74,7 +74,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
 
-<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   or   <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+<a href="https://www.buymeacoffee.com/MRBlach"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   or   <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ---
 <h1 id="acknowledgments">Acknowledgments</h1>
