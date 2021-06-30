@@ -13,6 +13,7 @@ Example Company Newsletter HTML Email Template
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [CSS Inliner](#cssInliner)
 - [Development](#development)
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
@@ -20,8 +21,6 @@ Example Company Newsletter HTML Email Template
 <h1 id="introduction">Introduction</h1>
 
 Responsive email template for daily, weekly, and monthly newsletters. Responsive three column grid, works well on mobile. Social media icons for networking.
-
----
 
 <img src="https://i.ibb.co/0qQPc17/template1-viewport.png" alt="template1-viewport" border="0">
 
@@ -35,6 +34,10 @@ Here is a working live demonstration: https://mrblach.github.io/email-template-c
 - HTML
 - CSS
 
+---
+<hi id="cssInliner">CSS Inliner</h1>
+
+Email clients are unpredictable when it comes to CSS support and will strip styles that are not inlined. Therefore it is important to inline your CSS and then test the email before finalizing.
 ---
 <h1 id="development">Development</h1>
 
