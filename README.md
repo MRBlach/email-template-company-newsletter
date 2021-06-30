@@ -80,7 +80,7 @@ Whether you use this project, have learned something from it, or just like it, p
 <h1 id="acknowledgments">Acknowledgments</h1>
 
 + Thanks to W3Newbie for the free [Newsletter Email Template Tutorial](https://www.youtube.com/watch?v=bWioL_nn9cI&t=1s)
-+ Thanks to Litmus Putsmail for the free [HTML Email Tester](https://putsmail.com/)
++ Thanks to Litmus Putsmail for providing the [HTML Email Tester](https://putsmail.com/)
 
 ### You may also like..
 
