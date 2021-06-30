@@ -39,9 +39,9 @@ Here is a working live demonstration: https://mrblach.github.io/email-template-c
 
 Not all email clients are created equally. Some are unpredictable when it comes to CSS support and will strip styles that are not inlined. It is important to inline your CSS and then test the email before finalizing. There are various options for doing so. For example:
 
-To verify that your CSS is inlined properly you can use this [Responsive Email CSS Inliner](https://htmlemail.io/inline/) to copy and paste you source code.
+To verify that the CSS is inlined properly, use this [Responsive Email CSS Inliner](https://htmlemail.io/inline/) to copy and paste the source code.
 
-To test your email before finalizing you can use the [Litmus Email Tester](https://putsmail.com/) to send yourself the email.
+To test the email before finalizing, use the [Litmus Email Tester](https://putsmail.com/) to send yourself the email first.
 
 ---
 <h1 id="development">Development</h1>
@@ -77,6 +77,10 @@ Whether you use this project, have learned something from it, or just like it, p
 <a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   or   <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ---
+<h1 id="acknowledgments">Acknowledgments</h1>
+
++ Thanks to W3Newbie for the free [Newsletter Email Template Tutorial](https://www.youtube.com/watch?v=bWioL_nn9cI&t=1s)
++ Thanks to Litmus Putsmail for the free [HTML Email Tester](https://putsmail.com/)
 
 ### You may also like..
 
