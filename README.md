@@ -35,9 +35,14 @@ Here is a working live demonstration: https://mrblach.github.io/email-template-c
 - CSS
 
 ---
-<hi id="cssInliner">CSS Inliner</h1>
+<h1 id="cssInliner">CSS Inliner</h1>
 
-Email clients are unpredictable when it comes to CSS support and will strip styles that are not inlined. Therefore it is important to inline your CSS and then test the email before finalizing.
+Not all email clients are created equally. Some are unpredictable when it comes to CSS support and will strip styles that are not inlined. It is important to inline your CSS and then test the email before finalizing. There are various options for doing so. For example:
+
+To verify that your CSS is inlined properly you can use this [Responsive Email CSS Inliner](https://htmlemail.io/inline/) to copy and paste you source code.
+
+To test your email before finalizing you can use the [Litmus Email Tester](https://putsmail.com/) to send yourself the email.
+
 ---
 <h1 id="development">Development</h1>
 
